@@ -1,0 +1,68 @@
+{
+    "productList": [
+      {
+        "Id": 1,
+        "category": "men",
+        "name": "Floral Kirby",
+        "image": "/assets/images/322.jpg",
+        "hover": "/assets/images/444.jpg",
+        "amount": 329.10,
+        "quantity": 1
+      },
+      {
+        "Id": 2,
+        "category": "women",
+        "name": "Open knit switer",
+        "image": "/assets/images/111.jpg",
+        "hover": "/assets/images/444.jpg",
+        "amount": 29.10,
+        "quantity": 1
+      },
+      {
+        "Id": 3,
+        "category": "kids",
+        "name": "Official trendy",
+        "image": "/assets/images/222.jpg",
+        "hover": "/assets/images/322.jpg",
+        "amount": 355.00,
+        "quantity": 1
+      },
+      {
+        "Id": 4,
+        "category": "men",
+        "name": "Frock short",
+        "image": "/assets/images/322.jpg",
+        "hover": "/assets/images/111.jpg",
+        "amount": 249.00,
+        "quantity": 1
+      },
+      {
+        "Id": 5,
+        "category": "women",
+        "name": "Sleeve dress",
+        "image": "/assets/images/444.jpg",
+        "hover": "/assets/images/222.jpg",
+        "amount": 59.00,
+        "quantity": 1
+      },
+      {
+        "Id": 6,
+        "category": "kids",
+        "name": "Stylish dress",
+        "image": "/assets/images/322.jpg",
+        "hover": "/assets/images/222.jpg",
+        "amount": 99.00,
+        "quantity": 1
+      },
+      {
+        "Id": 7,
+        "category": "men",
+        "name": "Frock short",
+        "image": "/assets/images/322.jpg",
+        "hover": "/assets/images/111.jpg",
+        "amount": 249.00,
+        "quantity": 1
+      }
+
+    ]
+  }
